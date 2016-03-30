@@ -1,7 +1,7 @@
 # Turtle 
 You need : 
   - python shell 2.7.11
-Quick Start
+# Quick Start
   - Click on DOWNLOAD ZIP 
   - Open mindstorms.py 
 ```sh
